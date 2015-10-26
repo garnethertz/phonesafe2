@@ -1,4 +1,4 @@
-//http://www.noveldevices.co.uk/ardl/timer.ino
+// http://www.noveldevices.co.uk/ardl/timer.ino
 
 #include <EEPROM.h>
 
